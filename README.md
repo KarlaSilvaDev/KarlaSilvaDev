@@ -52,14 +52,14 @@
 <h3>Contatos</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:karlasilvaeng@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/karlasilva-eng/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/karlasilvadev/) 
 
 <a href="#----karla-silva---desenvolvedora-fullstack">Voltar ao topo</a>
 
 <h3>Estatísticas e Métricas</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KarlaSilvaEng&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-[![Most_Used_languages](https://github-readme-stats.vercel.app/api/top-langs?username=KarlaSilvaEng&layout=compact&langs_count=4&card_width=320&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/KarlaSilvaEng/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KarlaSilvaDev&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![Most_Used_languages](https://github-readme-stats.vercel.app/api/top-langs?username=KarlaSilvaDev&layout=compact&langs_count=4&card_width=320&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/KarlaSilvaDev/github-readme-stats)
 
 <a href="#----karla-silva---desenvolvedora-fullstack">Voltar ao topo</a>
 
@@ -216,10 +216,10 @@
 
 <a href="#----karla-silva---desenvolvedora-fullstack">Voltar ao topo</a>
 
-![snake gif](https://github.com/KarlaSilvaEng/KarlaSilvaEng/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KarlaSilvaDev/KarlaSilvaDev/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img width="75%" src="https://github-widgetbox.vercel.app/api/profile?username=KarlaSilvaEng&data=followers,repositories,stars,commits&theme=laser" alt="GitHub WirdgetBox" />     
+  <img width="75%" src="https://github-widgetbox.vercel.app/api/profile?username=KarlaSilvaDev&data=followers,repositories,stars,commits&theme=laser" alt="GitHub WirdgetBox" />     
 </p>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&width=1000&color=CFCECB&center=true&vCenter=falso&repeat=true&lines=👋+Até+breve!;)](https://git.io/typing-svg)
