@@ -9,14 +9,14 @@
   <img width="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png" >
   Karla Silva - Desenvolvedora FullStack
 </h1>
-
 <p align="center">
   <a href="#sobre-mim">Sobre</a> •
   <a href="#objetivos">Objetivos</a> •
   <a href="#contatos">Contatos</a> •
   <a href="#estatísticas-e-métricas">Estatísticas e Métricas</a> •
   <a href="#habilidades-técnicas">Habilidades Técnicas</a> •
-  <a href="#tecnologias-em-estudo">Tecnologias em Estudo</a>
+  <a href="#tecnologias-em-estudo">Tecnologias em Estudo</a> •
+  <a href="https://portfolio-gold-seven-65.vercel.app/curriculum.html">Currículo</a>
 </p>
 
 <h3>Sobre mim</h3>
@@ -32,6 +32,7 @@
 <p align="justify"> 
  No momento, estou cursando Desenvolvimento Front-End, Computação em Nuvem e Desenvolvimento Full Stack. Além disso, concluí o curso de Desenvolvimento de Software Back-End com Javascript. Estou muito animada nessa jornada e sempre em busca de novos conhecimentos na área para fazer uso do potencial da tecnologia de forma positiva, ética e inclusiva.<br><br>
 </p>
+
 
 <a href="#----karla-silva---desenvolvedora-fullstack">Voltar ao topo</a>
 
