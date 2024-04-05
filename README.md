@@ -230,6 +230,24 @@
           </b>
         </sub>
     </td>
+    <td align="center" width=120px>
+      <a href="https://tailwindcss.com/docs/installation">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50px" alt="TailwindCSS icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Tailwind CSS</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">
+        <img src="https://skillicons.dev/icons?i=typescript" width="50px" alt="Typescript icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+    </td>
   </tr>
 </table>
 
