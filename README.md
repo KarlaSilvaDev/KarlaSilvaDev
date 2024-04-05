@@ -139,6 +139,15 @@
         </sub>
     </td>
     <td align="center" width=120px>
+      <a href="https://flask.palletsprojects.com/en/3.0.x/">
+        <img src="https://skillicons.dev/icons?i=flask" width="50px" alt="Flask icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Flask</pre>
+          </b>
+       </sub>
+    </td>
+    <td align="center" width=120px>
       <a href="https://www.postgresql.org/">
         <img src="https://skillicons.dev/icons?i=postgresql" width="50px" alt="Postgresql icon"/><br/>
         <sub>
@@ -195,20 +204,29 @@
       </a>
     </td>
     <td align="center" width=120px>
-      <a href="https://flask.palletsprojects.com/en/3.0.x/">
-        <img src="https://skillicons.dev/icons?i=flask" width="50px" alt="Flask icon"/><br/>
-        <sub> 
-          <b>
-            <pre>Flask</pre>
-          </b>
-        </sub>
-    </td>
-    <td align="center" width=120px>
       <a href="https://docs.aws.amazon.com/">
         <img src="https://skillicons.dev/icons?i=aws" width="50px" alt="AWS icon"/><br/>
         <sub> 
           <b>
             <pre>AWS</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://docs.oracle.com/en/java/">
+        <img src="https://skillicons.dev/icons?i=java" width="50px" alt="Java icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Java</pre>
+          </b>
+        </sub>
+    </td>
+    <td align="center" width=120px>
+      <a href="https://spring.io/projects/spring-framework">
+        <img src="https://skillicons.dev/icons?i=spring" width="50px" alt="Spring icon"/><br/>
+        <sub> 
+          <b>
+            <pre>Spring Framework</pre>
           </b>
         </sub>
     </td>
